@@ -1,6 +1,4 @@
-﻿using System.Collections.Immutable;
-
-namespace JuniorSoftwareDeveloper
+﻿namespace JuniorSoftwareDeveloper
 {
     public class GenericPackage
     {
